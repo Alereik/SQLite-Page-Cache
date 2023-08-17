@@ -1,5 +1,5 @@
-#ifndef CS564_PROJECT_PAGE_CACHE_LRU_HPP
-#define CS564_PROJECT_PAGE_CACHE_LRU_HPP
+#ifndef PAGE_CACHE_LRU_HPP
+#define PAGE_CACHE_LRU_HPP
 
 #include "page_cache.hpp"
 
